@@ -27,7 +27,7 @@
         "@mozilla/readability": "^0.6.0",
         "@typescript-eslint/eslint-plugin": "^8.25.0",
         "@vercel/functions": "^2.0.0",
-        "ai": "^2.2.0",
+        "ai": "^7.0.154",
         "date-fns": "^4.1.0",
         "node-html-parser": "^7.0.1",
         "react-intersection-observer": "^9.16.0",
