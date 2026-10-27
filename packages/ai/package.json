@@ -24,7 +24,7 @@
         "@repo/orchestrator": "*",
         "@repo/shared": "*",
         "@types/node": "^20.11.5",
-        "ai": "^4.1.40",
+        "ai": "^7.0.154",
         "braintrust": "^0.0.187",
         "dotenv": "^16.4.5",
         "js-tiktoken": "^1.0.19",
